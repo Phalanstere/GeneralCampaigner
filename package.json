@@ -1,0 +1,26 @@
+{
+  "name": "generalcampaigner",
+  "version": "1.0.0",
+  "description": "flexible jobs",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phalanstere/GeneralCampaigner.git"
+  },
+  "keywords": [
+    "campaigner"
+  ],
+  "author": "MB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phalanstere/GeneralCampaigner/issues"
+  },
+  "homepage": "https://github.com/Phalanstere/GeneralCampaigner#readme"
+}
