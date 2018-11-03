@@ -1,0 +1,2 @@
+# GeneralCampaigner
+flexible campaigning tool
